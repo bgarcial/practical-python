@@ -22,7 +22,6 @@ Your program should make a table that looks something like this:
 
 Note: You can clean up the output a bit if you use the round()
 function. Try using it to round the output to 4 digits
-
 """
 # 3/5 = 0.6
 height = 100 # 100 meters
